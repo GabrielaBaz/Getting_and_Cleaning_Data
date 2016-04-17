@@ -1,5 +1,5 @@
 =======================
-Coursera Final Project Codebook
+Coursera Getting and Cleaning Data Final Project Codebook
 ========================
 
 -------------------------------------
