@@ -38,11 +38,10 @@ First Dataset
 5. Convert the dataframes to table format to use the dplyr library and fuctions, and get a better view of the data.
 6. Add the activity and subject data to the observation data.
 7. Using the features files, we obtain some duplicated columns, therefore we have to get rid of these columns to continue working.
-8. Before merging the training and test data, we add a group column in order to be able to identify them later
-9. We merge both datasets (train and test) into one.
-10. We keep only the mean and standard deviation columns.
-11. To improve the description of the columns, we use sub and gsub with some Regular Expressions and rename all the columns.
-12. We write the dataset to the working directory using write.table.
+8. We merge both datasets (train and test) into one.
+9. We keep only the mean and standard deviation columns.
+10. To improve the description of the columns, we use sub and gsub with some Regular Expressions and rename all the columns.
+11. We write the dataset to the working directory using write.table.
 
 Second Dataset
 
